@@ -13,7 +13,7 @@ app.get('/', function(req, res){
 
 // .../myPage
 app.get('/myPage', function(req, res){
-    res.send('@cihanozhan');
+    res.send('@mertcanaltin');
 });
 
 // .../user/cihan
